@@ -52,6 +52,12 @@ phoneBook.loadFromFiles(files);
    - Option 5: Exit the program.
 4. Perform operations as needed.
 
+## Output
+![Screenshot 2025-01-03 182924](https://github.com/user-attachments/assets/952190bd-8d84-4035-a8c3-24ccc0cd0c18)
+
+
+
+
 
 
 
