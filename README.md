@@ -53,7 +53,11 @@ phoneBook.loadFromFiles(files);
 4. Perform operations as needed.
 
 ## Output
-![Screenshot 2025-01-03 182924](https://github.com/user-attachments/assets/952190bd-8d84-4035-a8c3-24ccc0cd0c18)
+![Screenshot 2025-01-03 182854](https://github.com/user-attachments/assets/bd329d7f-8aa9-4e30-bc3b-91ef83fd4e49)
+![Screenshot 2025-01-03 182912](https://github.com/user-attachments/assets/260d8a23-9c1a-4ee7-8ebb-ec672a7805c3)
+![Screenshot 2025-01-03 182924](https://github.com/user-attachments/assets/3f9bb047-7ac5-4ec2-b58a-2999eab5e39f)
+
+
 
 
 
